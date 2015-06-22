@@ -26,7 +26,7 @@ h3. Installation
 * Install ZooKeeper plugin to ES by running
 
 <pre>
-% bin/plugin -url https://github.com/grmblfrz/elasticsearch-zookeeper/releases/download/v1.4.1/elasticsearch-zookeeper-1.4.1.zip -install zookeeper
+% bin/plugin -url https://github.com/shinjiikeda/elasticsearch-zookeeper/releases/download/v1.6.0/elasticsearch-zookeeper-1.6.0.zip -install zookeeper
 </pre>
 
 * Assuming that you are running ZooKeeper on the port 2181 (default), add the following lines to config/elasticsearch.yml file
